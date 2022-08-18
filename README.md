@@ -14,10 +14,9 @@ Me chamo Letícia, tenho 18 anos, sou estudante da 10° Edição do Programa Sta
 </p>
 
 <p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link="/></a>
+    <a href = "mailto:leticiarutsatz099@gmail.com"><img src="https://img.shields.io/badge/-outlook-%23333?style=for-the-badge&logo=microsoft&logoColor=white"       target="_blank"></a>
 
-  <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link="https://www.linkedin.com/in/v%C3%ADtor-lima-de-le%C3%A3o-6a4891209/"/</a>
+    <a href="https://www.linkedin.com/in/samillemachado/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-   <a href="https://www.instagram.com/lleticiarutsatz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://www.instagram.com/lleticiarutsatz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</p>  
