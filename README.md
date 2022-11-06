@@ -5,7 +5,7 @@ Me chamo Letícia, tenho 18 anos, sou estudante da 10° Edição do Programa Sta
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>HTML, CSS e JavaScript.</strong>
+  Linguagens: <strong>HTML, CSS, Bootstrap e JavaScript.</strong>
 </p>
 
 
