@@ -1,11 +1,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-Me chamo Letícia, tenho 18 anos, sou estudante da 10° Edição do Programa Starter Full Stack Developer-GrowDev e também estou no 2° semestre da Graduação em     Desenvolvimento Web.
+Me chamo Letícia, tenho 19 anos, sou estudante da 10° Edição do Programa Starter Full Stack Developer-GrowDev.
 </p>
 
 <p align="left">
-  Linguagens: <strong>HTML, CSS, Bootstrap, JavaScript, Typescript, React e MUI.</strong>
+  Linguagens: <strong>HTML, CSS, Bootstrap, JavaScript, Typescript, React, MUI, Node, Postgresql e Jest.</strong>
 </p>
 
 
