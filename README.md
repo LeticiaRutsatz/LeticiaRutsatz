@@ -1,25 +1,24 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
-<p align="left"> 
-Me chamo Letícia, tenho 19 anos, sou estudante da 10° Edição do Programa Starter Full Stack Developer-GrowDev.
-</p>
+# Olá, eu sou a Letícia! 👋
 
-<p align="left">
-  Linguagens: <strong>HTML, CSS, Bootstrap, JavaScript, Typescript, React, MUI, Node, Postgresql e Jest.</strong>
-</p>
+Sou desenvolvedora de software com **2 anos de experiência**, especializada em **JavaScript**, **Node.js**, **TypeScript** e **AWS**. Atualmente, estou na **10ª Edição do Programa Starter Full Stack Developer da GrowDev**. Tenho experiência com aplicações escaláveis, micro serviços e integração de sistemas.
+
+### 🔧 **Tecnologias e Ferramentas que utilizo:**
+- **Linguagens**: JavaScript, TypeScript, Python
+- **Frameworks**: React, NestJS, Express.js, Fastify
+- **Cloud e AWS**: Lambda, API Gateway, DynamoDB, SQS, SNS, EC2, S3, CloudFormation
+- **Banco de Dados**: MySQL, PostgreSQL, DynamoDB
+- **Ferramentas**: Docker, GitHub Actions, Azure Pipelines, Jitterbit, Retool, RabbitMQ
+- **Testes**: Jest
+- **Metodologias**: Scrum, DevOps, Desenvolvimento Ágil
+
+---
+
+💌 **Entre em contato comigo:**
+
+[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=microsoft&logoColor=white)](mailto:leticiarutsatz099@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leticia-rutsatz-21ab801b1/)  
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lleticiarutsatz/)
 
 
-<p align="left">
-  💌 Entre em contato comigo: ⤵️
-</p>
-
-<p align="left">
-  <a href="#" alt="Gmail">
-  <a href = "mailto:leticiarutsatz099@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=microsoft&logoColor=white" target="_blank"></a>
-
-  <a href="#" alt="Linkedin">
-  <a href="https://www.linkedin.com/in/leticia-rutsatz-21ab801b1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
-  <a href="#" alt="Instagram">
-  <a href="https://www.instagram.com/lleticiarutsatz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</p>  
