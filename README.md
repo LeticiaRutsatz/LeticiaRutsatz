@@ -2,7 +2,7 @@
 
 # Olá, eu sou a Letícia! 👋
 
-Sou desenvolvedora de software com **2 anos de experiência**, especializada em **JavaScript**, **Node.js**, **TypeScript** e **AWS**. Atualmente, estou na **10ª Edição do Programa Starter Full Stack Developer da GrowDev**. Tenho experiência com aplicações escaláveis, micro serviços e integração de sistemas.
+Desenvolvedora de software com **2 anos de experiência**, especializada em **JavaScript**, **Node.js**, **TypeScript** e **AWS**. Atualmente cursando **Tecnologia da informação** pela UFMS e **Sistemas de informação** pela Unisinos. Tenho experiência com aplicações escaláveis, micro serviços e integração de sistemas.
 
 ### 🔧 **Tecnologias e Ferramentas que utilizo:**
 - **Linguagens**: JavaScript, TypeScript, Python
@@ -19,6 +19,4 @@ Sou desenvolvedora de software com **2 anos de experiência**, especializada em 
 
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=microsoft&logoColor=white)](mailto:leticiarutsatz099@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leticia-rutsatz-21ab801b1/)  
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lleticiarutsatz/)
-
 
