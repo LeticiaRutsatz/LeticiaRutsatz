@@ -1,6 +1,5 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
-# Olá, eu sou a Letícia! 👋
 Desenvolvedora de software com **2 anos de experiência**, especializada em **JavaScript**, **Node.js**, **TypeScript** e **AWS**. Atualmente cursando **Tecnologia da informação** pela UFMS e **Sistemas de informação** pela Unisinos. Tenho experiência com aplicações escaláveis, micro serviços e integração de sistemas.
 
 ### 🔧 **Tecnologias e Ferramentas que utilizo:**
